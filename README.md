@@ -1,3 +1,3 @@
 # This is for GIT practice !!
 
-## this is done by Faysal Ahmed Fahim 😊
+## This is done by Faysal Ahmed Fahim 😊
